@@ -32,7 +32,7 @@ print(res_post.status_code)
 print(res_post.json())
 
 
-#Запрос Put на зменения данных питомца
+#Запрос Put на изменения данных питомца
 
 data_change = {
   "id": 1122334455,
